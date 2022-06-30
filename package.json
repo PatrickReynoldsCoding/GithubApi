@@ -1,0 +1,23 @@
+{
+  "name": "05github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetchJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickReynoldsCoding/GithubApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrickReynoldsCoding/GithubApi/issues"
+  },
+  "homepage": "https://github.com/PatrickReynoldsCoding/GithubApi#readme",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
