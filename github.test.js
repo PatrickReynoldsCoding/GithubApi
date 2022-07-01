@@ -1,7 +1,4 @@
 const Github = require("./github");
-const GithubApi = require("./githubApi");
-
-
 
 describe("Github", () => {
   it("gets the repo data fetched by the Api class", () => {

@@ -16,13 +16,18 @@ class Github {
   };
   
 
+
+  // fetchRepositoryData(path) {
+  //   got("https://api.github.com/repos/" + path).then((response) => {
+  //     this.repositoryData = JSON.parse(response.body);
+  //   });
+  // }
+  // i truly don't understand why both classes couldn't be replaced with this one function above...
+
+
   getRepoData() {
     return this.repositoryData; 
   }
-
-
-
-
 }
 
 module.exports = Github

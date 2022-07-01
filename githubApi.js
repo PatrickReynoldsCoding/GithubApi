@@ -8,6 +8,7 @@ class GithubApi {
   }
 }
 
+
 // const api = new GithubApi();
 
 // api.fetchRepositoryData('sinatra/sinatra', (repositoryData) => {
@@ -15,3 +16,4 @@ class GithubApi {
 // });
 
 module.exports = GithubApi;
+
